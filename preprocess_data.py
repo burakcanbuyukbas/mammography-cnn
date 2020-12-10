@@ -290,4 +290,4 @@ def data_to_folders(size=256, data="all", label="diagnosis-4class", show=False, 
             print("***  Exception!  ****")
             print(err)
 
-data_to_folders(size=256, data="all", label="diagnosis-4class", show=False, color="GRY")
+data_to_folders(size=256, data="all", label="abnormality", show=False, color="RGB")
